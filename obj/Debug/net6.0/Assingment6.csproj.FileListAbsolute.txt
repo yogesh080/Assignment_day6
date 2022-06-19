@@ -1,0 +1,15 @@
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Assingment6\Assingment6\bin\Debug\net6.0\Assingment6.exe
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Assingment6\Assingment6\bin\Debug\net6.0\Assingment6.deps.json
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Assingment6\Assingment6\bin\Debug\net6.0\Assingment6.runtimeconfig.json
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Assingment6\Assingment6\bin\Debug\net6.0\Assingment6.dll
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Assingment6\Assingment6\bin\Debug\net6.0\Assingment6.pdb
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Assingment6\Assingment6\obj\Debug\net6.0\Assingment6.csproj.AssemblyReference.cache
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Assingment6\Assingment6\obj\Debug\net6.0\Assingment6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Assingment6\Assingment6\obj\Debug\net6.0\Assingment6.AssemblyInfoInputs.cache
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Assingment6\Assingment6\obj\Debug\net6.0\Assingment6.AssemblyInfo.cs
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Assingment6\Assingment6\obj\Debug\net6.0\Assingment6.csproj.CoreCompileInputs.cache
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Assingment6\Assingment6\obj\Debug\net6.0\Assingment6.dll
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Assingment6\Assingment6\obj\Debug\net6.0\refint\Assingment6.dll
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Assingment6\Assingment6\obj\Debug\net6.0\Assingment6.pdb
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Assingment6\Assingment6\obj\Debug\net6.0\Assingment6.genruntimeconfig.cache
+C:\Users\yogesh\Desktop\bridgelab\bridgelab\Assingment6\Assingment6\obj\Debug\net6.0\ref\Assingment6.dll
