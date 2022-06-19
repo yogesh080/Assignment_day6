@@ -2,34 +2,27 @@
 {
     internal class Program
     {
-        public static int Factor(int input)
-        {
-            int sum = 0;
-            for (int i = 1; i < input ; i++)
-            {
-                if(input%i == 0)
-                {
-                    sum = sum + i;
-                }
-            }
-            return sum;
-            
-        }
         static void Main(string[] args)
         {
-            int input = int.Parse(Console.ReadLine());
-            int result = Factor(input);
-            if(input == result)
+            int num = 10;
+            int count = 0;
+
+            for (int i = 1; i <= num; i++)
             {
-                Console.WriteLine("Perfect number");
+                if(num%i==0 )
+                {
+                    count++;
+                }
+               
+            }
+            if(count == 2)
+            {
+                Console.WriteLine("prime number");
             }
             else
             {
-                Console.WriteLine("Not a perfect number");
+                Console.WriteLine("Not a prime number");
             }
-            
-            
-        }
-
         }
     }
+}
