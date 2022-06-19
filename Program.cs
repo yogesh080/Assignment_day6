@@ -2,23 +2,34 @@
 {
     internal class Program
     {
+        public static int Factor(int input)
+        {
+            int sum = 0;
+            for (int i = 1; i < input ; i++)
+            {
+                if(input%i == 0)
+                {
+                    sum = sum + i;
+                }
+            }
+            return sum;
+            
+        }
         static void Main(string[] args)
         {
-            Console.WriteLine("Fibonacci Series of number is: ");
-            int a = 0;
-            int b = 1;
-            int c;
-            Console.WriteLine(a);
-            Console.WriteLine(b);
-
-            for (int i = 0; i < 10; i++)
+            int input = int.Parse(Console.ReadLine());
+            int result = Factor(input);
+            if(input == result)
             {
-                c = a + b;
-                Console.WriteLine(c);
-                a = b;
-                b = c;
-
+                Console.WriteLine("Perfect number");
             }
+            else
+            {
+                Console.WriteLine("Not a perfect number");
+            }
+            
+            
+        }
+
         }
     }
-}
